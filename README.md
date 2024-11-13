@@ -12,9 +12,9 @@ Xây dựng mô hình CNN
 - Thêm lớp Dropout nữa
 - Lớp đầu ra với 10 nút, mỗi nút tương ứng với một lớp (10 lớp cho CIFAR-10)
 ### ![image](https://github.com/user-attachments/assets/bec8b215-2b78-4028-848a-54f243790f7a)
-- Điểm Acc: 0.8989
+### Điểm Acc: 0.8989
 ### ![image](https://github.com/user-attachments/assets/c1cf8006-7b1c-47fb-a863-2977829e0aa6)
-- Thực hiện dự đoán trên tập kiểm tra
+### Thực hiện dự đoán trên tập kiểm tra
 ### ![image](https://github.com/user-attachments/assets/555725d0-360a-4cf7-8cc4-2ba31c9eef37)
 ### Kết quả
 Thực hiện phân loại trên giao diện - Ứng dụng thư viện có sẵn Gradio
