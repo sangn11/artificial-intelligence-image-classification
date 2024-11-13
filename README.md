@@ -12,6 +12,9 @@ Xây dựng mô hình CNN
 - Thêm lớp Dropout nữa
 - Lớp đầu ra với 10 nút, mỗi nút tương ứng với một lớp (10 lớp cho CIFAR-10)
 ### ![image](https://github.com/user-attachments/assets/bec8b215-2b78-4028-848a-54f243790f7a)
+### Huấn luyện mô hình
+Có thể thay đổi số epochs và batch_size để tăng độ nhận diện chính xác của mô hình
+### ![image](https://github.com/user-attachments/assets/c6b46353-8249-436d-9e5b-2670b4d93880)
 ### Điểm Acc: 0.8989
 ### ![image](https://github.com/user-attachments/assets/c1cf8006-7b1c-47fb-a863-2977829e0aa6)
 ### Thực hiện dự đoán trên tập kiểm tra
